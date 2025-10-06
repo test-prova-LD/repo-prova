@@ -1,1 +1,1 @@
-# repo-prova equip num. 2
+# Repositori de prova pel segon equip
